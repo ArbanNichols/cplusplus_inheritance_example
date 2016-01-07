@@ -1,0 +1,1 @@
+# cplusplus_inheritance_example
